@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lucas-Rose
 - 👀 I’m interested in everything to do with Game Design, Game Development, and Software Engineering!
 - 🌱 I’m currently studying a Bachelor of Games Design and Development at Macquarie University Australia.
-- 💞️ I’m looking to collaborate on any type of commission Game Design project, or any intern/junior level softwae development roles.
+- 💞️ I’m looking to collaborate on any type of commission Game Design project, or any intern/junior level Software development roles.
 - 📫 How to reach me:
 - Personal Enquiries: lucas58.rose@gmail.com
 - Academic Enquiries: lucas.rose@students.mq.edu.au
